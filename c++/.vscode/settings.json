@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Users\\FODEX\\Desktop\\DEVELOPER\\Mate\\c++\\ude.c",
+    "files.associations": {
+        "*.css": "postcss",
+        "*.js": "javascript",
+        "stdio.h": "c"
+    }
+}
