@@ -1,4 +1,5 @@
 # meu-site
+<!--
 Página Gabriel Clementino
 
 Bem-vindo à minha página pessoal, um aprendiz desenvolvedor Full-stack. Esta página apresenta informações básicas sobre mim, incluindo links para suas redes sociais e currículo.
@@ -20,3 +21,4 @@ Font Awesome
 Animação: Imagem de perfil com animação de bounce.
 Responsividade: Layout adaptável para diferentes tamanhos de tela.
 Links: Acesso rápido às redes sociais e currículo.
+-->
