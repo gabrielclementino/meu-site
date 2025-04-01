@@ -81,19 +81,4 @@ a:hover {
   height: 100%;
   background-size: cover;
 }
-#fundo {
-  background-image: url('https://via.placeholder.com/800x500/FF0000/FFFFFF?text=Fundo');
-  z-index: 1;
-}
-
-#meio {
-  background-image: url('https://via.placeholder.com/800x500/00FF00/FFFFFF?text=Meio');
-  z-index: 2;
-}
-
-#frente {
-  background-image: url('https://via.placeholder.com/800x500/0000FF/FFFFFF?text=Frente');
-  z-index: 3;
-}
-
 
