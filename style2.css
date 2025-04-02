@@ -88,7 +88,7 @@ a:hover {
     left: 0;
     width: 100vw;
     height: 100vh;
-    z-index: -1; /* Envia para trás dos elementos de texto */
+    z-index: -1;
     overflow: hidden;
 }
 
@@ -96,7 +96,8 @@ a:hover {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    opacity: 0.1; /* Deixa a imagem mais translúcida para não ofuscar os textos */
+    opacity: 0.1;
+    filter: brightness(1.7)
 }
 
 
