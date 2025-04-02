@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(to right, slateblue, lightblue);
+    color: white;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.portfolio-item {
+    width: 45%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff; /* Fundo branco para destacar os blocos */
+}
+
+h1, h2 {
+    color: #333; /* Cor do texto */
+}
+
+iframe {
+    width: 100%;
+    height: 400px;
+    border-radius: 8px;
+}
+
+@media (max-width: 768px) {
+    .portfolio-item {
+        width: 100%;
+    }
+}
