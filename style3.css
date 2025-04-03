@@ -1,3 +1,9 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background: linear-gradient(to right, slateblue, lightblue);
     color: white;
@@ -89,4 +95,21 @@ iframe {
     .portfolio-item {
         width: 100%;
     }
+}
+
+.image-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    overflow: hidden;
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.5;
 }
