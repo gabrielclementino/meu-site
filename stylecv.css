@@ -37,7 +37,7 @@ body {
 .curriculo-imagem {
     width: 100%;
     height: auto;
-    border: 2px solid slateblue;
+    border: 2px solid #07467d;
     border-radius: 10px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
@@ -61,7 +61,7 @@ body {
 .download-btn:hover {
     transform: scale(1.05);
     color: white;
-    background-color: slateblue;
+    background-color: #07467d;
 }
 
 @keyframes bounce {
