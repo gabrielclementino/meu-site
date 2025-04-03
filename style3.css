@@ -3,6 +3,7 @@ html, body {
     margin: 0;
     padding: 0;
 }
+
 body {
     background: linear-gradient(to right, slateblue, lightblue);
     color: white;
@@ -13,7 +14,7 @@ body {
 }
 
 .header {
-    background: linear-gradient(45deg, slateblue,slateblue, lightblue);
+    background: linear-gradient(45deg, slateblue, slateblue, lightblue);
     padding: 30px;
     color: rgb(255, 255, 255);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
