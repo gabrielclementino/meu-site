@@ -39,7 +39,7 @@ a {
 a:hover {
   transform: scale(1.05);
   color: white;
-  background-color: slateblue;
+  background-color: #07467d;
 }
 
 @keyframes bounce {
