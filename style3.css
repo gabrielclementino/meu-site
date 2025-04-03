@@ -14,7 +14,7 @@ body {
 }
 
 .header {
-    background: linear-gradient(45deg, slateblue, slateblue, lightblue);
+    background: linear-gradient(45deg, slateblue, slateblue);
     padding: 30px;
     color: rgb(255, 255, 255);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
