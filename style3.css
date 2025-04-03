@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-    background: linear-gradient(to right, slateblue, lightblue);
+    background: linear-gradient(to right, #07467d, #075295);
     color: white;
     font-family: 'Trebuchet MS', sans-serif;
     text-align: center;
@@ -14,7 +14,7 @@ body {
 }
 
 .header {
-    background: linear-gradient(45deg, slateblue, slateblue);
+    background: linear-gradient(45deg, #07467d, #07467d);
     padding: 30px;
     color: rgb(255, 255, 255);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
